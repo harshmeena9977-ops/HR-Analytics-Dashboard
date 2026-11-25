@@ -1,42 +1,26 @@
 # HR Analytics Dashboard
 
-📊 **Business Impact:**  
-Analyzed workforce of 1,470 employees to uncover attrition trends, job satisfaction insights, and demographic patterns.  
-Key findings:  
-- 16% attrition rate, highest in R&D (56%) and Sales (39%).  
-- Age group 25–34 showed maximum exits (112 employees).  
-- Female attrition higher in mid‑career bands.  
-- Job satisfaction lowest among Laboratory Technicians and Research Scientists.
+An independent Power BI practice dashboard about workforce attrition, job satisfaction, and demographic patterns. This is a portfolio practice project, not a client engagement or a measured business-impact study.
 
-⚙️ **Tech Stack:**  
-- Power BI (Interactive dashboards, DAX, Power Query)  
-- Data Cleaning & Transformation  
-- Visualization & KPI Tracking  
+## Project files
 
-📈 **Dashboard Features:**  
-- Attrition by Department & Education Field  
-- Age & Gender Analysis  
-- Job Satisfaction Ratings  
-- Workforce Demographics  
+- [Power BI report](HR%20Analytics%20Dashboard.pbix)
+- [Dashboard screenshot](HR-Analytics-Dashboard.png)
 
-🔗 **Use Case:**  
-Helps HR teams design retention strategies, improve employee engagement, and align recruitment pipelines.
+## Dashboard scope
 
----
+The previous README describes views of attrition by department and education field, age and gender, job satisfaction, and workforce demographics. The PBIX is included, but its data model, DAX measures, Power Query steps, and numerical outputs have not been independently checked.
 
-## Screenshots
-![Dashboard Overview]("C:\Users\meena\OneDrive\Pictures\Screenshots\HR-Analytics-Dashboard.png")
+## Data and interpretation
 
----
+The repository contains no source dataset, data dictionary, analysis code, or dataset citation. The earlier README listed employee counts and subgroup percentages that cannot be verified from the tracked files, so those figures are not repeated here. No causal explanation or business outcome is claimed.
 
-## How to Use
-1. Download the `.pbix` file.  
-2. Open in Power BI Desktop.  
-3. Explore interactive filters and visuals.  
+## Open the report
 
----
+Download the PBIX file and open it in Power BI Desktop. The image below provides a static preview.
 
-## Author
-👤 Harsh Meena  
-- [LinkedIn](https://www.linkedin.com/in/harshmeena03/)  
-- [GitHub](https://github.com/harshmeena9977-ops)
+![HR Analytics Dashboard screenshot](HR-Analytics-Dashboard.png)
+
+## Tools
+
+The project describes Power BI, DAX, and Power Query. The PBIX is the only analytical artifact provided; the report internals have not been validated.
